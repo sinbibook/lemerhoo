@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.54.0",
-    "generatedAt": "2026-07-10T06:50:45.843522978Z",
+    "version": "1.55.0",
+    "generatedAt": "2026-07-10T07:40:43.328342817Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1171,7 +1171,7 @@
                     "id": "2cd98a91-5b0d-4619-bfe7-42d7750630de",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_signature/1783650006298-cf0yidv32w.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "양양 르메르후 펜션만의 편안한 공간",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1179,7 +1179,7 @@
                     "id": "6bafc2bf-cef0-4761-9b56-6f0447007fe6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_signature/1783650006388-syf2iibkut.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "양양 르메르후 펜션만의 편안한 공간",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -1187,7 +1187,7 @@
                     "id": "9bddf91e-13cb-4acf-9e09-880467ccfaf7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_signature/1783650550789-u8slhb7cj8.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "양양 르메르후 펜션만의 편안한 공간",
                     "isSelected": true,
                     "blockId": null
                   }
