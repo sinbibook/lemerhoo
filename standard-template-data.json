@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.52.0",
-    "generatedAt": "2026-07-10T06:46:02.237549053Z",
+    "version": "1.53.0",
+    "generatedAt": "2026-07-10T06:50:16.477539104Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1615,7 +1615,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "6e5a3b19-94b9-4330-b8e8-df3b835b2cb4",
@@ -1626,7 +1626,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
               "about": {
                 "title": "",
@@ -1635,12 +1635,12 @@
                     "id": "4a44dc22-d22d-410a-9ff6-f4402091bee0",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/layout_map_about/1783652329793-0o3w1wx4w4.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": " ",
                     "isSelected": true,
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": " "
               },
               "enabled": true
             }
