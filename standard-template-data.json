@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-07-10T03:23:34.453589651Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-07-10T03:25:11.455260281Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1912,6 +1912,42 @@
               "isSelected": true,
               "blockId": "bdb65dd3-28a6-47cb-a622-38944aaeb064",
               "category": "roomtype_interior"
+            },
+            {
+              "id": "ca635325-26de-421b-8287-4065c16c1358",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/roomtype_exterior/1783653908423-3s6110ea9q.jpg",
+              "sortOrder": 4,
+              "description": "",
+              "isSelected": true,
+              "blockId": "bdb65dd3-28a6-47cb-a622-38944aaeb064",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "7a210e0e-5302-4693-b8c7-9e50931086cf",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/roomtype_exterior/1783653908429-dpw5vh4iby.jpg",
+              "sortOrder": 5,
+              "description": "",
+              "isSelected": true,
+              "blockId": "bdb65dd3-28a6-47cb-a622-38944aaeb064",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "7a205aa1-e425-44f1-8850-4f7a94497859",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/roomtype_exterior/1783653908422-01f75018v2.jpg",
+              "sortOrder": 6,
+              "description": "",
+              "isSelected": true,
+              "blockId": "bdb65dd3-28a6-47cb-a622-38944aaeb064",
+              "category": "roomtype_exterior"
+            },
+            {
+              "id": "364bc41f-22f1-4ae8-8f58-021729c26f29",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/roomtype_exterior/1783653908428-5ppdfpfpmi.jpg",
+              "sortOrder": 7,
+              "description": "",
+              "isSelected": true,
+              "blockId": "bdb65dd3-28a6-47cb-a622-38944aaeb064",
+              "category": "roomtype_exterior"
             }
           ]
         }
