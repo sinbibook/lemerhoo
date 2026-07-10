@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.35.0",
-    "generatedAt": "2026-07-10T05:35:40.287506332Z",
+    "version": "1.36.0",
+    "generatedAt": "2026-07-10T05:35:55.114434918Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1525,6 +1525,26 @@
                   "benefits": [ ],
                   "features": [ ],
                   "additionalInfos": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "0bb8872c-f3c9-4a01-aff0-47b39b5c901b",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
                 }
               }
             ]
