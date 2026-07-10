@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.45.0",
-    "generatedAt": "2026-07-10T06:18:47.915844589Z",
+    "version": "1.46.0",
+    "generatedAt": "2026-07-10T06:20:05.163472847Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1449,7 +1449,7 @@
             "sections": [
               {
                 "hero": {
-                  "title": " ",
+                  "title": "가볍게 모여 앉아 나누는 식사 속에서\n자연스럽게 하루의 이야기가 이어집니다.\n편안한 분위기 속에서 여유로운 시간을 보내보세요.\n",
                   "images": [ ]
                 },
                 "about": {
