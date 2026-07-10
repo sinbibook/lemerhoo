@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-07-10T02:29:12.625217813Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-07-10T02:36:16.647710155Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -826,8 +826,8 @@
                 "title": "",
                 "images": [
                   {
-                    "id": "576e3cb3-8a48-400d-be52-681a1a96569f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_closing/1783650006379-xrz31slv46.jpg",
+                    "id": "71a42d2f-13fe-46d0-a3bf-f68a57481163",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_closing/1783650974369-4sgjmra8x3.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -839,11 +839,11 @@
                 "description": ""
               },
               "essence": {
-                "title": "",
+                "title": "COASTAL REST",
                 "images": [
                   {
-                    "id": "18f209e5-5465-4d1f-b49f-d66cdca16bc8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_essence/1783650006303-hnzpvhtipo.jpg",
+                    "id": "678ee596-df32-4d55-8d53-ca616fe6fc45",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/index_essence/1783650974363-0fr3euwj1i.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
@@ -852,7 +852,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "푸른 바다와 감각적인 공간이 어우러져\n머무는 모든 순간이 편안한 휴식으로 기억됩니다."
               },
               "gallery": {
                 "title": "SPECIAL PREVIEW",
