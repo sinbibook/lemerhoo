@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-07-10T06:08:52.461086619Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-07-10T06:11:51.650178403Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1606,7 +1606,7 @@
                     "id": "6e5a3b19-94b9-4330-b8e8-df3b835b2cb4",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/layout_map_hero/1783652418107-u3761npjik.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": " ",
                     "isSelected": true,
                     "blockId": null
                   }
