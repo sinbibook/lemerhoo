@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.44.0",
-    "generatedAt": "2026-07-10T06:16:12.389549007Z",
+    "version": "1.45.0",
+    "generatedAt": "2026-07-10T06:18:47.915844589Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1397,11 +1397,26 @@
             "sections": [
               {
                 "hero": {
-                  "title": " ",
+                  "title": "  ",
                   "images": [ ]
                 },
                 "gallery": {
                   "title": "",
+                  "images": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "bdb65dd3-28a6-47cb-a622-38944aaeb064",
+            "sections": [
+              {
+                "hero": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "gallery": {
+                  "title": " ",
                   "images": [ ]
                 }
               }
