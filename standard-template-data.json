@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.16.0",
-    "generatedAt": "2026-07-10T03:17:33.779816509Z",
+    "version": "1.17.0",
+    "generatedAt": "2026-07-10T03:18:48.505033358Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1085,7 +1085,7 @@
                 "description": " "
               },
               "closing": {
-                "title": "바다와 가장 가까운 하루",
+                "title": " ",
                 "images": [
                   {
                     "id": "71a42d2f-13fe-46d0-a3bf-f68a57481163",
