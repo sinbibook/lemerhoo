@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.36.0",
-    "generatedAt": "2026-07-10T05:35:55.114434918Z",
+    "version": "1.37.0",
+    "generatedAt": "2026-07-10T05:37:39.615338005Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -144,7 +144,7 @@
       {
         "id": "0bb8872c-f3c9-4a01-aff0-47b39b5c901b",
         "name": "카페",
-        "description": "",
+        "description": "머무는 공간 안에서 이어지는 여유로운 한 잔의 시간,\n편안한 분위기 속에서 잠시 쉬어가는 순간을 만들어줍니다.\n가볍게 머물며 여행의 흐름을 이어가보세요.",
         "usageGuide": " ",
         "displayOrder": 2,
         "images": [
@@ -1434,7 +1434,7 @@
             "sections": [
               {
                 "hero": {
-                  "title": "가볍게 모여 앉아 나누는 식사 속에서\n자연스럽게 하루의 이야기가 이어집니다.\n편안한 분위기 속에서 여유로운 시간을 보내보세요.\n",
+                  "title": " ",
                   "images": [ ]
                 },
                 "about": {
