@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-07-10T03:31:42.108267117Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-07-10T03:32:23.499319957Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1425,6 +1425,26 @@
               {
                 "hero": {
                   "title": "머무는 공간 안에서 이어지는 여유로운 한 잔의 시간,\n편안한 분위기 속에서 잠시 쉬어가는 순간을 만들어줍니다.\n가볍게 머물며 여행의 흐름을 이어가보세요.\n",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "4a6c1e30-8503-46da-99be-249937c0e14d",
+            "sections": [
+              {
+                "hero": {
+                  "title": "푸른 하늘과 바다가 한눈에 펼쳐지는 공간에서\n잊지 못할 순간을 만나보세요.",
                   "images": [ ]
                 },
                 "about": {
