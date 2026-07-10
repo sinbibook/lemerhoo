@@ -781,6 +781,18 @@
     box-shadow: 0 15px 30px rgba(0,0,0,0.2);
 }
 
+/* 이미지 1장일 때: 아코디언 없이 풀 이미지로 표시 */
+.room-gallery-container.gallery-single .gallery-item {
+    flex: 1 1 100% !important;
+    min-width: 0 !important;
+    cursor: default;
+}
+
+.room-gallery-container.gallery-single .gallery-item .gallery-item-overlay {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
 /* Room Gallery Images - 줌 효과 제거 */
 .room-gallery-container .gallery-item img {
     width: 100% !important;

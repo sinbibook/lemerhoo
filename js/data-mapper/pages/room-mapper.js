@@ -478,19 +478,29 @@ class RoomMapper extends BaseDataMapper {
         const galleryContainer = this.safeSelect('[data-room-gallery]');
         if (!galleryContainer) return;
 
-        // customFields 이미지 사용
-        const selectedImages = this.getRoomImages(room, 'roomtype_exterior');
-
+        // customFields 이미지 사용 (실제 선택된 이미지만 반환, 최대 4장)
+        const GALLERY_MAX_COUNT = 4;
+        const selectedImages = this.getRoomImages(room, 'roomtype_exterior').slice(0, GALLERY_MAX_COUNT);
 
         // 기존 갤러리 초기화
         galleryContainer.innerHTML = '';
 
-        // 4개 고정 갤러리 아이템 생성
-        for (let i = 0; i < 4; i++) {
-            const imgData = selectedImages[i] || null; // 이미지가 없으면 null
+        // 이미지가 없으면 섹션 자체를 숨김
+        const gallerySection = galleryContainer.closest('.room-gallery-section');
+        if (selectedImages.length === 0) {
+            if (gallerySection) gallerySection.style.display = 'none';
+            return;
+        }
+        if (gallerySection) gallerySection.style.display = '';
+
+        // 1장이면 풀 이미지, 2장 이상이면 아코디언
+        galleryContainer.classList.toggle('gallery-single', selectedImages.length === 1);
+
+        // 실제 이미지 개수만큼 갤러리 아이템 생성 (1~4개)
+        selectedImages.forEach(imgData => {
             const item = this._createGalleryItem(imgData, room.name);
             galleryContainer.appendChild(item);
-        }
+        });
 
 
         // 갤러리 초기화
