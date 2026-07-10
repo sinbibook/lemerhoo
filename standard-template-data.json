@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.38.0",
-    "generatedAt": "2026-07-10T05:38:22.707846636Z",
+    "version": "1.39.0",
+    "generatedAt": "2026-07-10T05:38:46.367789365Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1514,7 +1514,7 @@
             "sections": [
               {
                 "hero": {
-                  "title": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.\n",
+                  "title": " ",
                   "images": [ ]
                 },
                 "about": {
