@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.21.0",
-    "generatedAt": "2026-07-10T03:29:42.397868569Z",
+    "version": "1.22.0",
+    "generatedAt": "2026-07-10T03:31:42.108267117Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1389,6 +1389,46 @@
                 },
                 "about": {
                   "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "6433f48e-8b80-49b5-97f0-edfaad7b6bd2",
+            "sections": [
+              {
+                "hero": {
+                  "title": "가볍게 모여 앉아 나누는 식사 속에서\n자연스럽게 하루의 이야기가 이어집니다.\n편안한 분위기 속에서 여유로운 시간을 보내보세요.\n",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "1fbf63a0-9c50-4090-958c-f5d371493f10",
+            "sections": [
+              {
+                "hero": {
+                  "title": "머무는 공간 안에서 이어지는 여유로운 한 잔의 시간,\n편안한 분위기 속에서 잠시 쉬어가는 순간을 만들어줍니다.\n가볍게 머물며 여행의 흐름을 이어가보세요.\n",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
                   "images": [ ]
                 },
                 "experience": {
