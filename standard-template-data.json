@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-07-10T02:36:16.647710155Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-07-10T02:38:14.185551868Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -823,7 +823,7 @@
                 "description": " "
               },
               "closing": {
-                "title": "",
+                "title": "바다와 가장 가까운 하루",
                 "images": [
                   {
                     "id": "71a42d2f-13fe-46d0-a3bf-f68a57481163",
@@ -836,7 +836,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": " "
               },
               "essence": {
                 "title": "COASTAL REST",
