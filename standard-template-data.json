@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-07-10T03:32:52.953228441Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-07-10T03:33:28.342250777Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1465,6 +1465,26 @@
               {
                 "hero": {
                   "title": "잔잔한 파도와 시원한 바람을 따라\n천천히 걸으며 여행의 여유를 느껴보세요.",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "66fa972b-aee6-4d7f-826a-d4c3adcf1373",
+            "sections": [
+              {
+                "hero": {
+                  "title": "머무는 모든 순간이 편안하게 이어질 수 있도록\n세심한 준비로 공간의 완성도를 더했습니다.\n부담 없이 쉬어갈 수 있는 시간을 제공합니다.\n",
                   "images": [ ]
                 },
                 "about": {
