@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.15.0",
-    "generatedAt": "2026-07-10T03:13:04.574199526Z",
+    "version": "1.16.0",
+    "generatedAt": "2026-07-10T03:17:33.779816509Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -952,8 +952,8 @@
       {
         "logo": [
           {
-            "id": "d84cdf2b-be6a-41ec-9664-ccaaa1aa5b3e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/logo/1783653172288-ttttiwhnny.png",
+            "id": "511f601f-2d8f-4b06-aecf-09aa66224a8c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/9b170bcc-f552-4c53-8948-789a2f2fd605/logo/1783653447171-5rb6ipaanm.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -1226,7 +1226,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "바다와 함께 머무는 시간",
                 "images": [
                   {
                     "id": "cd8474f4-c407-4508-b206-8b856a502c77",
@@ -1309,7 +1309,7 @@
                     "blockId": null
                   }
                 ],
-                "description": ""
+                "description": "푸른 수평선이 이어지는 풍경 속에서 머무는 시간마다\n편안함이 더해지고 감각적인 공간이 여행을 완성합니다.\n일상에서는 느낄 수 없는 여유를 이곳에서 천천히 만나보세요."
               },
               "about": [
                 {
