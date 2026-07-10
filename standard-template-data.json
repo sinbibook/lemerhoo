@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.37.0",
-    "generatedAt": "2026-07-10T05:37:39.615338005Z",
+    "version": "1.38.0",
+    "generatedAt": "2026-07-10T05:38:22.707846636Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1494,7 +1494,7 @@
             "sections": [
               {
                 "hero": {
-                  "title": "잔잔한 파도와 시원한 바람을 따라\n천천히 걸으며 여행의 여유를 느껴보세요.",
+                  "title": " ",
                   "images": [ ]
                 },
                 "about": {
