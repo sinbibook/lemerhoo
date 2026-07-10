@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.23.0",
-    "generatedAt": "2026-07-10T03:32:23.499319957Z",
+    "version": "1.24.0",
+    "generatedAt": "2026-07-10T03:32:52.953228441Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1445,6 +1445,26 @@
               {
                 "hero": {
                   "title": "푸른 하늘과 바다가 한눈에 펼쳐지는 공간에서\n잊지 못할 순간을 만나보세요.",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": "",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "8b3420d7-0861-4522-a9b3-595c7ecad73a",
+            "sections": [
+              {
+                "hero": {
+                  "title": "잔잔한 파도와 시원한 바람을 따라\n천천히 걸으며 여행의 여유를 느껴보세요.",
                   "images": [ ]
                 },
                 "about": {
