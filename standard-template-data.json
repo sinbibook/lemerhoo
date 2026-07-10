@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-07-10T03:43:01.985882367Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-07-10T03:43:43.110814781Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -1370,10 +1370,10 @@
                     }
                   ],
                   "blockId": "6c14bc41-2210-4757-b6d7-b5822a181f4e",
-                  "description": ""
+                  "description": " "
                 },
                 {
-                  "title": "",
+                  "title": "파도와 함께 걷는 시간",
                   "images": [
                     {
                       "id": "e9a4ede3-2ad9-4500-accc-59112739441d",
@@ -1385,7 +1385,7 @@
                     }
                   ],
                   "blockId": "33454ea2-6588-4f2e-bbcc-92648fc4e6d9",
-                  "description": ""
+                  "description": " "
                 }
               ]
             }
