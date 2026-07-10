@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.13.0",
-    "generatedAt": "2026-07-10T03:02:23.509807147Z",
+    "version": "1.14.0",
+    "generatedAt": "2026-07-10T03:07:30.771596395Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -67,6 +67,259 @@
       "securityDeposit": 0
     },
     "facilities": [
+      {
+        "id": "ec552f9b-3ab1-4dbb-9c9e-5d12ae2b6682",
+        "name": "오션뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.\n자연을 바라보며 온전히 쉬어가는 순간을 경험해보세요.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "cf57ea4d-e1de-4a44-a84c-065732a7b990",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec552f9b-3ab1-4dbb-9c9e-5d12ae2b6682/main/1783652696018-ixir79st8a.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "f8818e84-a18f-442b-80ad-265a33af65b6",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec552f9b-3ab1-4dbb-9c9e-5d12ae2b6682/main/1783652691347-t8a102kpir.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ab4cc1c7-1dc8-41e4-a342-a71984eef598",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec552f9b-3ab1-4dbb-9c9e-5d12ae2b6682/main/1783652691349-ezg682jg1a.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "edb3166c-2f8c-42fb-a600-d74cd8a7b95a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ec552f9b-3ab1-4dbb-9c9e-5d12ae2b6682/main/1783652691347-w21yooyj2y.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "6433f48e-8b80-49b5-97f0-edfaad7b6bd2",
+        "name": "공용 바베큐",
+        "description": "가볍게 모여 앉아 나누는 식사 속에서\n자연스럽게 하루의 이야기가 이어집니다.\n편안한 분위기 속에서 여유로운 시간을 보내보세요.",
+        "usageGuide": " ※ 자세한 내용은 예약안내 페이지 참고 부탁드립니다.\n",
+        "displayOrder": 1,
+        "images": [
+          {
+            "id": "0eae179d-41c2-4bde-be7c-498224524184",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6433f48e-8b80-49b5-97f0-edfaad7b6bd2/main/1783652717560-6akea16294.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ca3f777e-446e-4c02-9d71-7ad534961397",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6433f48e-8b80-49b5-97f0-edfaad7b6bd2/main/1783652717564-wz4u1c8721.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "eb7f4db2-b8fa-41cd-8c37-5906c524ff4b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/6433f48e-8b80-49b5-97f0-edfaad7b6bd2/main/1783652717563-aum8du6btu.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "1fbf63a0-9c50-4090-958c-f5d371493f10",
+        "name": "카페",
+        "description": "머무는 공간 안에서 이어지는 여유로운 한 잔의 시간,\n편안한 분위기 속에서 잠시 쉬어가는 순간을 만들어줍니다.\n가볍게 머물며 여행의 흐름을 이어가보세요.",
+        "usageGuide": " ",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "88754f80-76b8-4aeb-a7c5-ee59c823dba1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652718893-5l7yjv61ho.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "805077f9-77eb-4606-b141-8d09fdb853b1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719776-zaadcjadr2.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "c60906ae-6f5d-4587-8cd3-57c950291e39",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719580-97y2fxj3ca.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ae773393-807a-4855-9f67-535d56308d60",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719879-jgpc13h88h.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "fa6d9454-fb01-4c5b-8a1e-a2b6201b0bf9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719302-u8v9tev6hl.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "85f4bcdd-ea28-40a9-bf8a-bed83a93c2e0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652718582-aaauxb914s.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "388a35db-345b-4070-9176-02f2a6e4d2b1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719880-fhql60eva4.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "8c2d615c-cbd4-4d7f-a9cb-045bc2ce51ea",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652718590-jzteh68m4h.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1ff29718-5f1f-480b-b70e-bd11a5c746c7",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719997-ciaizax148.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "94c1788c-5d9f-4b72-aa85-11cd361e55f2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652718585-asacfh7l0h.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "199a6a17-a2cc-46e1-825c-bc4ab7293aff",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652720079-pyif8wgc0q.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6fd18ea4-06c4-453d-bee9-23e702d05a87",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1fbf63a0-9c50-4090-958c-f5d371493f10/main/1783652719989-3xk5ncuzzf.jpg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "4a6c1e30-8503-46da-99be-249937c0e14d",
+        "name": "루프탑 전망대",
+        "description": "푸른 하늘과 바다가 한눈에 펼쳐지는 공간에서\n잊지 못할 순간을 만나보세요.",
+        "usageGuide": "",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "941a3a7b-f116-4df1-bdcc-f4acee78f284",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a6c1e30-8503-46da-99be-249937c0e14d/main/1783652724018-qlctdaa99x.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d231d6d9-fad8-491f-820c-398fe5326f04",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a6c1e30-8503-46da-99be-249937c0e14d/main/1783652724362-yv661buf32.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "d64df6c6-f9b8-4b0a-9baf-501ece460c04",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a6c1e30-8503-46da-99be-249937c0e14d/main/1783652724022-u79qqbm6gw.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "ed6a7df1-ed5a-4e2b-8d5b-95c9f94edb3c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/4a6c1e30-8503-46da-99be-249937c0e14d/main/1783652724019-vbigvbrne3.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "8b3420d7-0861-4522-a9b3-595c7ecad73a",
+        "name": "동호 해변",
+        "description": "잔잔한 파도와 시원한 바람을 따라\n천천히 걸으며 여행의 여유를 느껴보세요.",
+        "usageGuide": "",
+        "displayOrder": 4,
+        "images": [
+          {
+            "id": "ca3dac4e-6c1e-4b83-8e85-0d74f7d05e68",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8b3420d7-0861-4522-a9b3-595c7ecad73a/main/1783652726483-whouygwajk.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "399e61dc-95c8-43ff-8441-292fd7be2e8a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8b3420d7-0861-4522-a9b3-595c7ecad73a/main/1783652726311-jvkawcqk77.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "b7125ff4-1ce4-4e8e-b395-cf4e7c3e9a49",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/8b3420d7-0861-4522-a9b3-595c7ecad73a/main/1783652726561-ximm0gica9.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
       {
         "id": "66fa972b-aee6-4d7f-826a-d4c3adcf1373",
         "name": "서비스",
@@ -1100,7 +1353,28 @@
           ]
         },
         "room": [ ],
-        "facility": [ ],
+        "facility": [
+          {
+            "id": "ec552f9b-3ab1-4dbb-9c9e-5d12ae2b6682",
+            "sections": [
+              {
+                "hero": {
+                  "title": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.\n자연을 바라보며 온전히 쉬어가는 순간을 경험해보세요.",
+                  "images": [ ]
+                },
+                "about": {
+                  "title": " ",
+                  "images": [ ]
+                },
+                "experience": {
+                  "features": [ ],
+                  "additionalInfos": [ ],
+                  "benefits": [ ]
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
