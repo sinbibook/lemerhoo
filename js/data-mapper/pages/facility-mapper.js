@@ -335,7 +335,10 @@ class FacilityMapper extends BaseDataMapper {
      */
 
     /**
-     * 갤러리 매핑 (facility.images 4장 동적 생성)
+     * 갤러리 매핑 (facility.images 개수에 따라 동적 생성)
+     * - 0장: 섹션 숨김
+     * - 1장: 이미지 1장 풀(full)
+     * - 2~4장: 아코디언 방식
      */
     mapGallery() {
         const facility = this.getCurrentFacility();
@@ -346,23 +349,33 @@ class FacilityMapper extends BaseDataMapper {
 
         // 갤러리 상수 정의
         const HERO_IMAGES_COUNT = 2; // Hero/Thumbnail에서 사용하는 이미지 수
-        const GALLERY_IMAGES_COUNT = 6; // 갤러리에 표시할 이미지 수
+        const GALLERY_MAX_COUNT = 4; // 갤러리에 표시할 최대 이미지 수
 
-        // ImageHelpers로 선택된 이미지 가져오기
+        // ImageHelpers로 선택된 이미지 가져오기 (실제 이미지만 반환)
         const selectedImages = ImageHelpers.getSelectedImages(facility.images);
+
+        // 갤러리용 이미지 (Hero/Thumbnail 이후 이미지들, 최대 4장)
+        const galleryImages = selectedImages.slice(HERO_IMAGES_COUNT, HERO_IMAGES_COUNT + GALLERY_MAX_COUNT);
 
         // 갤러리 컨테이너 초기화
         galleryContainer.innerHTML = '';
 
-        // 갤러리용 이미지 (Hero/Thumbnail 이후 이미지들)
-        const galleryImages = selectedImages.slice(HERO_IMAGES_COUNT, HERO_IMAGES_COUNT + GALLERY_IMAGES_COUNT);
+        // 이미지가 없으면 섹션 자체를 숨김
+        const gallerySection = galleryContainer.closest('.facility-gallery-section');
+        if (galleryImages.length === 0) {
+            if (gallerySection) gallerySection.style.display = 'none';
+            return;
+        }
+        if (gallerySection) gallerySection.style.display = '';
 
-        // 4개 고정 갤러리 아이템 생성
-        for (let i = 0; i < 4; i++) {
-            const imgData = galleryImages[i] || null; // 이미지가 없으면 null
+        // 1장이면 풀 이미지, 2장 이상이면 아코디언
+        galleryContainer.classList.toggle('gallery-single', galleryImages.length === 1);
+
+        // 실제 이미지 개수만큼 갤러리 아이템 생성 (1~4개)
+        galleryImages.forEach(imgData => {
             const item = this._createGalleryItem(imgData, facility.name);
             galleryContainer.appendChild(item);
-        }
+        });
 
         // DOM에 추가된 후 첫 번째 아이템을 활성화
         setTimeout(() => {
