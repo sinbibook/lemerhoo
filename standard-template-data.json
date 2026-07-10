@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.50.0",
-    "generatedAt": "2026-07-10T06:32:02.164691195Z",
+    "version": "1.51.0",
+    "generatedAt": "2026-07-10T06:45:35.200414045Z",
     "templateType": "full_banner_accordion",
     "propertyId": "413dd1ec-5fd5-472e-b212-d3fc5e27d04e",
     "homepageId": "9b170bcc-f552-4c53-8948-789a2f2fd605"
@@ -966,8 +966,8 @@
       "title": "양양 르메르후 펜션",
       "description": "양양 동호해변 인근 오션뷰 펜션, 르메르후에서 즐기는 바다 휴식",
       "keywords": "양양펜션,양양오션뷰펜션,양양바베큐펜션,강원도펜션,강원도오션뷰펜션,강원도바베큐펜션,강원펜션,강원오션뷰펜션,강원바베큐펜션",
-      "naverSiteVerification": "",
-      "googleSiteVerification": ""
+      "naverSiteVerification": "fa4e08acfdda791e462254a6cc292438810fb731",
+      "googleSiteVerification": "z7JcGPbgv3uxmddcE1CWtvzULL0oxvhHrLY7O0snRxU"
     },
     "socialLinks": {
       "facebook": null,
@@ -1557,9 +1557,9 @@
                   "images": [ ]
                 },
                 "experience": {
+                  "benefits": [ ],
                   "features": [ ],
-                  "additionalInfos": [ ],
-                  "benefits": [ ]
+                  "additionalInfos": [ ]
                 }
               }
             ]
