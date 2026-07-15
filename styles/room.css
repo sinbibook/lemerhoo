@@ -581,6 +581,11 @@
     margin: 0 auto 50px auto;
 }
 
+/* Room Information 섹션 미노출 시, 사라진 만큼의 하단 여백(80px top + 100px bottom)을 amenities에 보정 */
+.room-amenities-section.room-info-hidden {
+    padding-bottom: 180px;
+}
+
 .amenities-grid {
     display: flex;
     flex-wrap: wrap;
