@@ -340,8 +340,21 @@ class RoomMapper extends BaseDataMapper {
         // 객실 이용규칙/안내사항 (시스템 데이터)
         const roomGuide = this.safeSelect('[data-room-guide]');
         if (roomGuide) {
-            const roomInfo = room.roomInfo || '편안한 휴식 공간';
-            roomGuide.innerHTML = this._formatTextWithLineBreaks(roomInfo);
+            const usageGuideSection = roomGuide.closest('[data-room-usage-guide]');
+            const amenitiesSection = this.safeSelect('[data-room-amenities]');
+            const roomInfo = (room.roomInfo || '').trim();
+
+            // roomInfo가 없으면 Room Information 섹션(제목 포함) 미노출
+            if (!roomInfo) {
+                if (usageGuideSection) usageGuideSection.style.display = 'none';
+                roomGuide.innerHTML = '';
+                // 사라진 섹션만큼 amenities에 하단 여백 보정
+                if (amenitiesSection) amenitiesSection.classList.add('room-info-hidden');
+            } else {
+                if (usageGuideSection) usageGuideSection.style.display = '';
+                roomGuide.innerHTML = this._formatTextWithLineBreaks(roomInfo);
+                if (amenitiesSection) amenitiesSection.classList.remove('room-info-hidden');
+            }
         }
     }
 
