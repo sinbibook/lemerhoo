@@ -500,7 +500,10 @@ class HeaderFooterMapper extends BaseDataMapper {
         const copyrightElement = this.safeSelect('[data-footer-copyright]');
         if (copyrightElement) {
             const currentYear = new Date().getFullYear();
-            copyrightElement.innerHTML = `<a href="https://sinbibook.com" target="_blank" style="color: inherit; text-decoration: none;">© ${currentYear} 신비서. All rights reserved.</a>`;
+            // property.tripProviderName(Trip11 공급자명) 이 있으면 그 이름으로, 없으면 기존 '신비서'
+            // innerHTML 에 들어가므로 태그로 해석될 문자는 제거한다
+            const provider = String(this.safeGet(this.data, 'property.tripProviderName') || '').trim().replace(/[&<>"]/g, '') || '신비서';
+            copyrightElement.innerHTML = `<a href="https://sinbibook.com" target="_blank" style="color: inherit; text-decoration: none;">© ${currentYear} ${provider}. All rights reserved.</a>`;
         }
     }
 
